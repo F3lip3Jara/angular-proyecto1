@@ -16,6 +16,5 @@ export class CardPersonaComponent implements OnInit {
   ngOnInit() {
   }
  
- 
 
-}
+} 
